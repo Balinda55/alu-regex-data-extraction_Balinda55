@@ -1,0 +1,66 @@
+{
+  "emails": [
+    {
+      "email": "sonia.balinda@alueducation.com",
+      "type": "ALU official"
+    },
+    {
+      "email": "si.balinda@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "s.balinda1@alustudent.com",
+      "type": "external"
+    },
+    {
+      "email": "balinda@si.alueducation",
+      "type": "external"
+    },
+    {
+      "email": "s.balinda@alumni.alueducation.com",
+      "type": "ALU alumni"
+    },
+    {
+      "email": "s.balinda@alumni.aluEducation.com",
+      "type": "ALU alumni"
+    }
+  ],
+  "credit_cards": [
+    {
+      "masked": "**** **** **** 6467",
+      "valid_luhn": true
+    },
+    {
+      "masked": "**** **** **** 8431",
+      "valid_luhn": true
+    },
+    {
+      "masked": "**** **** **** 9424",
+      "valid_luhn": true
+    },
+    {
+      "masked": "**** **** **** 5100",
+      "valid_luhn": true
+    }
+  ],
+  "urls": [
+    "https://www.alueducation.com/admissions?ref=ticket10234",
+    "ftp://sketchy-site.ru/malware.exe",
+    "https://alu.edu/refer?code=SB1NDA99&utm_source=email",
+    "http://alu-support.com/refunds"
+  ],
+  "phones": [
+    "+250788123456",
+    "250722998113",
+    "714496353",
+    "+250733000999",
+    "0733000999",
+    "+250700111222",
+    "250788222333"
+  ],
+  "rejected_lines": [
+    "Line skipped: injection pattern detected",
+    "Line skipped: injection pattern detected",
+    "Line skipped: injection pattern detected"
+  ]
+}
